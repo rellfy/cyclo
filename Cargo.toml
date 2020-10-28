@@ -1,0 +1,12 @@
+[package]
+name = "pedia"
+version = "0.0.0"
+authors = ["Lorenzo Fontoura <lorenzo@nioel.com>"]
+edition = "2018"
+license = "MIT"
+homepage = "https://github.com/rellfy/pedia"
+repository = "https://github.com/rellfy/pedia"
+description = "Encyclopedia system"
+readme = "README.md"
+
+[dependencies]
