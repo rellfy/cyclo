@@ -11,4 +11,4 @@ RUN curl https://sh.rustup.rs -sSf | sh -s -- -y
 RUN rustup toolchain add stable
 WORKDIR /pedia
 RUN git clone https://github.com/rellfy/pedia.git .
-CMD cargo start
+CMD cargo run --release
