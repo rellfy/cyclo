@@ -23,7 +23,7 @@ RUN echo "Initial update." &&\
     mkdir -p /usr/share/info
 # install utilities
 RUN echo "Installing utilities." &&\
-    apt-get install -f -y --no-install-recommends apt-utils &&\
+    apt-get install -f -y --no-install-recommends apt-utils
 # install TeX Live well as other tools
 RUN apt-get install -f -y --no-install-recommends \
     biber \
