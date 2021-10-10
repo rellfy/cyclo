@@ -1,11 +1,11 @@
 [package]
-name = "pedia"
+name = "cyclo"
 version = "0.0.0"
 authors = ["Lorenzo Fontoura <lorenzo@nioel.com>"]
 edition = "2018"
 license = "MIT"
-homepage = "https://github.com/rellfy/pedia"
-repository = "https://github.com/rellfy/pedia"
+homepage = "https://github.com/rellfy/cyclo"
+repository = "https://github.com/rellfy/cyclo"
 description = "Encyclopedia system"
 readme = "README.md"
 
